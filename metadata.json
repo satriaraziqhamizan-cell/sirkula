@@ -1,0 +1,6 @@
+{
+  "name": "SIRKULA — Verifikasi Daur Ulang Riil",
+  "description": "Sistem Informasi Verifikasi Aliran Sampah Berbasis Neraca Massa dan Deteksi Anomali untuk Mengukur Tingkat Daur Ulang Riil (VRR) pada TPS3R.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

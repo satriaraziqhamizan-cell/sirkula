@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" fill="none">
+  <!-- Circular badge icon -->
+  <defs>
+    <linearGradient id="gradLeaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#0F6B4F" />
+    </linearGradient>
+    <linearGradient id="gradDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F6B4F" />
+      <stop offset="100%" stop-color="#0B3D2E" />
+    </linearGradient>
+  </defs>
+
+  <!-- Icon group -->
+  <g transform="translate(10, 10)">
+    <rect width="80" height="80" rx="22" fill="#E8F8F0" />
+    
+    <!-- Circular Arrows -->
+    <path d="M 50 18 A 24 24 0 0 1 64 42" stroke="#0F6B4F" stroke-width="5" stroke-linecap="round" fill="none" />
+    <path d="M 64 36 L 65 43 L 58 43" fill="#0F6B4F" />
+    
+    <path d="M 30 62 A 24 24 0 0 1 16 38" stroke="#10B981" stroke-width="5" stroke-linecap="round" fill="none" />
+    <path d="M 16 44 L 15 37 L 22 37" fill="#10B981" />
+
+    <!-- Center Leaf Checkmark -->
+    <path d="M 28 42 L 36 50 L 52 30" stroke="#0B3D2E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <!-- Leaf accent -->
+    <path d="M 52 30 C 58 24, 62 30, 58 36 C 54 36, 52 32, 52 30 Z" fill="#10B981" />
+  </g>
+
+  <!-- Typography: SIRKULA -->
+  <text x="106" y="58" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="40" font-weight="900" letter-spacing="-0.03em" fill="#0B3D2E">SIRKULA</text>
+
+  <!-- Subtitle -->
+  <text x="108" y="78" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="0.16em" fill="#0F6B4F">GROUND TRUTH NERACA MASSA</text>
+</svg>
